@@ -4,5 +4,5 @@ Design a responsive calculator using HTML, CSS, and JavaScript, allowing it to s
 Project public link: https://khushimishracalculator.netlify.app/
 
 
-![Uploading image.png…]() 
+![image](https://github.com/kmishraa/Calculator_Project/assets/104066423/979018fc-6920-409f-879f-bce1c1636175)
 
